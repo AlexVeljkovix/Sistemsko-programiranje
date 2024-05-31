@@ -1,5 +1,5 @@
 # SisProgProjekat1
- First project for system programming course done in pair with colleague Aleksa Veljkovic
+ First project for system programming course done in pair with colleague Mladen Agic
 
 Task:
 Kreirati Web server koji klijentu omogućava pretragu umetničkih dela korišćenjem Art Institute
