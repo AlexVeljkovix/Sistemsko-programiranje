@@ -1,0 +1,90 @@
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.exe
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.deps.json
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.runtimeconfig.json
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.pdb
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\bin\Debug\net8.0\System.Reactive.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.AssemblyReference.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfoInputs.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfo.cs
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CoreCompileInputs.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.Up2Date
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\refint\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.pdb
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.genruntimeconfig.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\Projekat3\final\Projekat3\Projekat3\obj\Debug\net8.0\ref\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.exe
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.deps.json
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.runtimeconfig.json
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.pdb
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\bin\Debug\net8.0\System.Reactive.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.AssemblyReference.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfoInputs.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfo.cs
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CoreCompileInputs.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CopyComplete
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\refint\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.pdb
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.genruntimeconfig.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3\Projekat3\obj\Debug\net8.0\ref\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.exe
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.deps.json
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.runtimeconfig.json
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.pdb
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\bin\Debug\net8.0\System.Reactive.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.AssemblyReference.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfoInputs.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfo.cs
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CoreCompileInputs.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.Up2Date
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\refint\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.pdb
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.genruntimeconfig.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3\Projekat3\obj\Debug\net8.0\ref\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.exe
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.deps.json
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.runtimeconfig.json
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.pdb
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\bin\Debug\net8.0\System.Reactive.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.AssemblyReference.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfoInputs.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfo.cs
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CoreCompileInputs.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.Up2Date
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\refint\Projekat3.dll
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.pdb
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.genruntimeconfig.cache
+E:\Faks\LEVEL TRI\7 SEM\Sistemsko\ALEKSzip3\inal\Projekat3 (3)\Projekat3\Projekat3\obj\Debug\net8.0\ref\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.exe
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.deps.json
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.runtimeconfig.json
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\Projekat3.pdb
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\bin\Debug\net8.0\System.Reactive.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.AssemblyReference.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfoInputs.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.AssemblyInfo.cs
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CoreCompileInputs.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.csproj.CopyComplete
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\refint\Projekat3.dll
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.pdb
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\Projekat3.genruntimeconfig.cache
+D:\Fakultet\III Godina\Sistemsko programiranje\SisProgProjekat3\Projekat3 Final\Projekat3 Final\Projekat3\Projekat3\obj\Debug\net8.0\ref\Projekat3.dll
